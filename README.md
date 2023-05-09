@@ -1,16 +1,17 @@
-### Hi there 👋
+## 🙋🏻‍♀️ Introducing Myself
 
-<!--
-**Vishal3698/Vishal3698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vishal, an Industrial Automation Specialist working towards the Google Data Analytics Certificate and developing proficiency in R, SQL, PowerBI, Excel, and Python, I am passionate about leveraging data to drive informed decision-making. With excellent soft skills, including problem-solving, presentation, and communication, I excel in collaborating with cross-functional teams and delivering results that exceed expectations. 
 
-Here are some ideas to get you started:
+Let's connect at https://www.linkedin.com/in/vishalpatel1266/ if you're looking for a detail-oriented data analytics professional who is committed to making an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm open to remote opportunities in roles such as SQL Developer, Database Administrator, and Analytics Engineer.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+
+### 🛠️ Tools
+
+- Database: Google BigQuery, SQL Server
+- Python: NumPy, Pandas
+- Business Intelligence: PowerBI, Tableau
