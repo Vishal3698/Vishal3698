@@ -19,3 +19,11 @@ Currently, I'm open to opportunities in roles such as Jr. Data Analyst.
 - Data Visualization: PowerBI
 
 
+
+
+**[2. Bike Share Company Usage Analysis](https://github.com/Vishal3698/CaseStudy1)**
+-	Bikeshare company wanted to analyze if they can increase profit by marketting the annual membership tier 
+-	Usage trend between two memberhip tiers throughout the year
+
+**Language Used:**  R
+
