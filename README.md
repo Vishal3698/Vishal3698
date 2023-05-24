@@ -7,7 +7,16 @@ Let's connect at [LinkedIn](https://www.linkedin.com/in/vishalpatel1266/), if yo
 Currently, I'm open to opportunities in roles such as Jr. Data Analyst.
 
 ## 📚 Projects
-**[1. Gantry Perfomance Analysis and Reports Generation](https://github.com/Vishal3698/Gantry_Perfomance_Reports_2023/blob/main/README.md)**
+
+**[1. Bike Share Company Usage Analysis](https://github.com/Vishal3698/CaseStudy1)**
+-	Bikeshare company wanted to analyze if they can increase profit by marketting the annual membership tier 
+-	Usage trend between two memberhip tiers throughout the year
+
+
+**Language Used:**  R
+
+
+**[2. Gantry Perfomance Analysis and Reports Generation](https://github.com/Vishal3698/Gantry_Perfomance_Reports_2023/blob/main/README.md)**
 -	An overhead gantry system was installed in a distribution centre of a bakery to store products from bakery and retrieve it as per the sales orders
 -	As per the request of stakeholders, I analysed machine's store/retrieve data to find out the rate of infeeding the products into the Gantry storage vs the rate of retrieving sales orders from it
 -	I also analysed machine's performance to find out most common problems, uncovered some trends and analysed them even further to improve the performance
@@ -21,9 +30,5 @@ Currently, I'm open to opportunities in roles such as Jr. Data Analyst.
 
 
 
-**[2. Bike Share Company Usage Analysis](https://github.com/Vishal3698/CaseStudy1)**
--	Bikeshare company wanted to analyze if they can increase profit by marketting the annual membership tier 
--	Usage trend between two memberhip tiers throughout the year
 
-**Language Used:**  R
 
